@@ -1,8 +1,9 @@
 # Amazon-review-annotation
 
 This folder holds two annotation sets for Amazon reviews.
-
-1. Amazon review annotation for cancer symptom management - The annotation labels were designed to capture cancer types, indicated symptoms, and symptom management outcomes, and the resulting annotation corpus contained 2,067 labels from 159 Amazon reviews. 
-
-
-2. Amazon review annotation for unmet survivorship care needs - 1: CancerSurvivor_Motivations_NLP_Guidelines_V5 Annotation guideline is based on the 2024 National Survivorship standards. 
+1. Amazon review annotation for cancer symptom management - The annotation labels were designed to capture cancer types, indicated symptoms, and symptom management outcomes, and the resulting annotation corpus contained 2,067 labels from 159 Amazon reviews. This includes 2 parts: Review_Annotation_Guidelines.docx and Amazon_review_annotation.zip.
+   Citation: Wang, Liwei, Qiuhao Lu, Rui Li, Taylor B. Harrison, Heling Jia, Ming Huang, Heidi Dowst et al. "Understanding Cancer Survivorship Care Needs Using Amazon Reviews: Content Analysis, Algorithm Development, and Validation Study." JMIR cancer 11, no. 1 (2025): e71102.
+   
+3. Amazon review annotation for unmet survivorship care needs - The annotation labels were designed to capture cancer types and seven care needs elements, and their classes. Cancer type records the cancer of the person for whom the product was used (32 types).
+   Three elements capture the motivation for product use including physical effects (acute, late or long-term), psychological effects (distress reduction, hope or optimism, identity preservation or sense of normalcy) and lifestyle and behavior changes (smoking, alcohol, exercise, nutrition, sun protection). The remaining four elements describe the perceived product effect (helpful, harmful, no effect), treatment intent (supplemental or alternative), financial hardship (employment, insurance, cost of treatment, transportation, housing) and the product referral source (clinician, friend or family, other reviewers, fellow survivors, other). This includes 2 parts: CancerSurvivor_Motivations_NLP_Guidelines_V5.docx and Amazon_review_annotation_care_needs.zip.
+<img width="468" height="505" alt="image" src="https://github.com/user-attachments/assets/76c87256-541f-4e72-acb6-edca9e822584" />
